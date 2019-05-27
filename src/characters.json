@@ -1,0 +1,75 @@
+[
+    {
+      "id": 0,
+      "name": "Barney Stinson",
+      "image": "assets/images/barney-stinson.png",
+      "isClicked": false
+    },
+    {
+      "id": 1,
+      "name": "Bob Sagat",
+      "image": "assets/images/bob-sagat.png",
+      "isClicked": false
+    },
+    {
+      "id": 2,
+      "name": "Goat",
+      "image": "assets/images/himym-goat.png",
+      "isClicked": false
+    },
+    {
+      "id": 3,
+      "name": "Victoria",
+      "image": "assets/images/himym-victoria.png",
+      "isClicked": false
+    },
+    {
+      "id": 4,
+      "name": "Mother",
+      "image": "assets/images/himym-mother.png",
+      "isClicked": false
+    },
+    {
+      "id": 5,
+      "name": "James Stinson",
+      "image": "assets/images/james-stinson.png",
+      "isClicked": false
+    },
+    {
+      "id": 6,
+      "name": "Lily Aldren",
+      "image": "assets/images/lily-aldren.png",
+      "isClicked": false
+    },
+    {
+      "id": 7,
+      "name": "Robin Scherbatsky",
+      "image": "assets/images/robin-scherbatsky.png",
+      "isClicked": false
+    },
+    {
+      "id": 8,
+      "name": "Marshall Eriksen",
+      "image": "assets/images/marshall-eriksen.png",
+      "isClicked": false
+    },
+    {
+      "id": 9,
+      "name": "Ranjit",
+      "image": "assets/images/ranjit-singh.png",
+      "isClicked": false
+    },
+    {
+      "id": 10,
+      "name": "Sandy Rivers",
+      "image": "assets/images/sandy-rivers.png",
+      "isClicked": false
+    },
+    {
+      "id": 11,
+      "name": "Ted Mosby",
+      "image": "assets/images/ted-mosby.png",
+      "isClicked": false
+    }
+  ]
+  
